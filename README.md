@@ -9,10 +9,10 @@ FarmBook helps small-scale poultry and goat farmers in Zambia keep digital recor
 
 | No. | Full name | Student number |
 | --- | --- | --- |
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
+| 1 |Urban Silweya  |2300864  |
+| 2 |Lukundo Ipungu  | 2300718 |
+| 3 | Clement Mulenga |2301085  |
+| 4 | Alintula Silwamba | 2410030 |
 | 5 |  |  |
 
 ## Features (matches the approved proposal)
